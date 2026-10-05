@@ -14,7 +14,7 @@ https://clima-por-cep-662649285974.us-central1.run.app/
 Exemplo de uso:
 
 ```
-[GET https://SEU-SERVICO.run.app/01001000](https://clima-por-cep-662649285974.us-central1.run.app/01001000)
+https://clima-por-cep-662649285974.us-central1.run.app/01001000
 ```
 
 ## Endpoint
